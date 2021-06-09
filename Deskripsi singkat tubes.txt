@@ -1,0 +1,28 @@
+Kami membuat sebuah program yang berjudul Pengelolaan Data Dosen.
+
+Program ini menerima inputan berupa nama dan kode dosen serta mata kuliah yang dipilih. 
+Kemudian nama dan kode dosen direlasikan dengan mata kuliah. Pada program ini terdapat
+beberapa pilihan menu.
+
+1.Input Data Dosen
+    Di menu ini, user menginputkan nama dan kode dosen.
+2.Input Mata Kuliah
+    Setelah nama dan kode dosen menginputkan nama dan kode dosen, user dapat menginputkan mata kuliah.
+3.Tambah Relasi
+    Di menu ini, user dapat menghubungkan/merelasikan nama dan kode dosen dengan mata kuliah. Satu dosen
+    dapat memilih lebih dari satu mata kuliah.
+4.Hapus Data Dosen
+    Menu ini memungkinkan user untuk menghapus inputan dosen berdasarkan nama dosen.
+5.Hapus Data Kuliah
+    User dapat menghapus inputan mata kuliah dengan menu ini.
+6.Hapus Data Relasi
+    User dapat menggunakan menu ini ketika data dosen dan mata kuliah telah direlasikan, dan  ingin menghapus
+    data tersebut.
+7.Menampilkan Data Dosen dan Mata Kuliah
+    Menu ini menampilkan data dosen dan mata kuliah yang sudah direlasikan.
+8.Menampilkan Berdasarkan Data Dosen
+    Menu ini menampilkan data dosen dan mata kuliah yang sudah direlasikan dengan cara mencari nama dosen.
+9.Menampilkan Berdasakan Mata Kuliah
+    Menu ini menampilkan data dosen yang mengambil mata kuliah tertentu.
+0.Menampilkan Mata Kuliah dengan Dosen Terbanyak dan Tersedikit
+    Menu ini hanya menampilkan mata kuliah yang paling banyak dan paling sedikit dipilih dosen.
